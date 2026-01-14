@@ -13,7 +13,9 @@ Wikipedia XML Dump
 → Text Embeddings (Sentence Transformers)
 → Pinecone Vector Index
 → Semantic Similarity Search
+
 Notebooks Included
+
 06-Process-Wikipedia.ipynb
 Processes Wikipedia XML dumps using Spark. Extracts article titles and text, removes wiki markup and references, and outputs cleaned structured data.
 
